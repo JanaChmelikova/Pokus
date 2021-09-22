@@ -1,10 +1,14 @@
 .nadpis{
     color:azure;
     background-color:rgb(85, 79, 92);
+    margin: 0;
+    
 }
 .obrazek {
     float: right;
-    width:500px;
+    width: 50%;
+    height:80%;
+    margin: 10px 30px 30px 30px;
 }
 h2 {
     color:rgb(85, 79, 92);
