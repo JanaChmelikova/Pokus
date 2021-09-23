@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(245, 226, 247);
+    background-color:rgb(252, 247, 252);
 }
 .obrazek {
     background-size:cover;
@@ -24,8 +24,7 @@ p {
 }
 
 .paticka {
-background-color: rgb(85, 79, 92);
-color: azure;
+color: rgb(85, 79, 92);
 text-align: center;
 padding: 5px 0;
 }
@@ -34,6 +33,8 @@ padding: 5px 0;
     float: right;
     width:200px; 
 }
-
+.celasekce{
+    width:1250px;
+}
    
     
