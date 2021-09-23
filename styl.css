@@ -20,7 +20,7 @@ p {
     background-size: cover;
     color: rgb(85, 79, 92);
     background-repeat: no-repeat;
-    background-image: "image('pozadi-002.jpg')";
+    background-image: url(pozadi-002.jpg);
 }
 
 .paticka {
