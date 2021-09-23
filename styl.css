@@ -5,9 +5,7 @@
     
 }
 .obrazek {
-    width: 916px;
-    height: 827px;
-    background-size: cover;
+    background-size:cover;
     float: right;
 }
 h2 {
@@ -17,7 +15,7 @@ p {
     color: rgb(85, 79, 92)
 }
 .box {
-    padding: 30px 50px 70px 30px; 
+    padding: 50px 50px 70px 50px; 
     margin: 30px 50px;
 }
 .hlavicka {
